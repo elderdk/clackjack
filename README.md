@@ -26,7 +26,7 @@ Game of single-deck blackjack made with C
 
 And tie (Push) if your and dealer's scores are same.
 
-You can run the clackjack executable in the bin folder or you can compile it yourself using the Makefile.
+You can run the `clackjack` executable in the bin folder or you can compile it yourself using the `Makefile`.
 
 
 Good luck!

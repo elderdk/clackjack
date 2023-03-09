@@ -25,4 +25,7 @@ You lose if:
 
 And tie (Push) if your and dealer's scores are same.
 
+You can run the clackjack executable in the bin folder or you can compile it yourself using the Makefile.
+
+
 Good luck!

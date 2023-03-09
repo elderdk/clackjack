@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# custom declarations
+.bin/scores.txt
+.bin/test_runner

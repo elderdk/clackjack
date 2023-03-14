@@ -30,12 +30,12 @@ void loadScoreIfSaveExists(Player *dealer, Player *you){
 
     if(fp != NULL){
         fscanf(fp, "%d %d", &dealer->fund, &you->fund);
+        fclose(fp);
     } else {
         dealer->fund = 1000000;
         you->fund = 1000;
     }
 
-    fclose(fp);
 }
 
 void initializeGame(Player *dealer, Player *you, Deck *deck)

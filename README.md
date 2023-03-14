@@ -1,19 +1,21 @@
 # Bring Down the House: clackjack
 Game of single-deck blackjack made with C
 
+
+```
 +-+-+-+-+-+ +-+-+-+-+ +-+-+-+ +-+-+-+-+-+
 |b|r|i|n|g| |d|o|w|n| |t|h|e| |h|o|u|s|e|
 +-+-+-+-+-+ +-+-+-+-+ +-+-+-+ +-+-+-+-+-+
 
->*******************
->Dealer : C6 **                                              
->You    : H0 DQ   20                                         
->*******************
->
->Bet: 100                                           
->
->Your move? ([h]it, (d)ouble, [s]tay): 
+*******************
+Dealer : C6 **                                              
+You    : H0 DQ   20                                         
+*******************
 
+Bet: 100                                           
+
+Your move? ([h]it, (d)ouble, [s]tay): 
+```
 
 
 ### Here are the steps:

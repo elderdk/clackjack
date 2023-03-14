@@ -1,4 +1,4 @@
-# clackjack
+# Bring Down the House: clackjack
 Game of single-deck blackjack made with C
 
 

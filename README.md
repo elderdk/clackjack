@@ -42,7 +42,9 @@ Your move? ([h]it, (d)ouble, [s]tay):
 
 And tie (Push) if your and dealer's scores are same.
 
-You can run the `clackjack` executable in the bin folder or you can compile it yourself using the `Makefile`.
+### How to install:
+
+No need for installation. You can run the `clackjack` executable in the `bin` folder or you can compile it yourself using the `Makefile`.
 
 
 Good luck!
